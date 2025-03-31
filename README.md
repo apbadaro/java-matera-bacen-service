@@ -21,15 +21,9 @@ A estrutura do projeto segue o padrão Maven para organização de dependências
 ```bash
 ├── src/
 │   └── main/
-│       └── java/
-│           └── com/
-│               └── bootcamp/
-│                   └── matera/
-│                       └── bacen_service/
-│                           └── BacenServiceApplication.java
+│       └── java/com/bootcamp/matera/bacen_service
+│           └── BacenServiceApplication.java
 ```
-
-
 ---
 
 <p align="center"> 

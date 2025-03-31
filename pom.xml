@@ -12,7 +12,7 @@
 	<artifactId>bacen-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bacen-service</name>
-	<description>Projeto para simular controle de chaver PIX</description>
+	<description>Projeto para simular controle de chaves PIX</description>
 	<url/>
 	<licenses>
 		<license/>
